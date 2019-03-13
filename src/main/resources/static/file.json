@@ -1,0 +1,19 @@
+{
+  SHANGHAI(100);
+  NANJING(12);
+  BEIJING(2);
+  XUZHOU(8);
+  SUZHOU(99);}
+
+ /*
+      1 选中冒号
+      2 Ctrl+Shift+Alt+J
+      3 Ctrl+Shift+ ->
+      4 Ctrl+Shift+U
+      5 Ctrl+X
+      6 home
+      7 Ctrl+V
+      8 输入.(
+      9 Ctrl + ->
+      10 输入;
+      */
