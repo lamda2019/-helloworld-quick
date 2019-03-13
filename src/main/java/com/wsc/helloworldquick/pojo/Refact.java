@@ -19,6 +19,7 @@ public class Refact {
 
    public void getName(String name){
        System.out.println(name);
+
    }
 
 
