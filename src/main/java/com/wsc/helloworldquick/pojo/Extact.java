@@ -2,7 +2,7 @@ package com.wsc.helloworldquick.pojo;
 
 public class Extact {
 
-    private final String name = "wsc2019";
+    private final String name = "wsc2019ok";
 
     //抽取方法 Ctrl + Alt + M
     public void extractStr(String name){
